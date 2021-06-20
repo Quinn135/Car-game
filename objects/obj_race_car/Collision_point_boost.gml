@@ -1,0 +1,1 @@
+add_points(irandom_range(150, 300), global.points);
