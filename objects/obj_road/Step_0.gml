@@ -6,10 +6,16 @@ else if (y <= 720){
 	y = -705;
 }
 
+if (global.die == 1){
+	global.chance = 5;
+}
+
+global.chance = global.points / 10;
+
 var xdir = choose(1,2,3);
 
-var fav = irandom(1000);
-if (fav <= 7.5) {
+var fav = irandom(10000);
+if (fav <= global.chance) {
 	if (xdir == 1){
 	global.xdi = 420
 }
