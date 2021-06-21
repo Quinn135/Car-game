@@ -1,4 +1,3 @@
-global.deaths += 1;
 if (!audio_is_playing(Whoosh)){
 	audio_play_sound(Whoosh,100,false);
 }

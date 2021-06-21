@@ -19,7 +19,6 @@
     {"id":{"name":"Road","path":"rooms/Road/Road.yy",},"order":0,},
     {"id":{"name":"HighScore","path":"objects/HighScore/HighScore.yy",},"order":8,},
     {"id":{"name":"Car_noise","path":"sounds/Car_noise/Car_noise.yy",},"order":2,},
-    {"id":{"name":"Deaths","path":"objects/Deaths/Deaths.yy",},"order":7,},
     {"id":{"name":"spr_car","path":"sprites/spr_car/spr_car.yy",},"order":0,},
   ],
   "Options": [
